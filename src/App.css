@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.text-gradient {
+  background: linear-gradient(90deg, #eeeeee, #909090);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.vh-70 {
+  height: 70vh;
+}

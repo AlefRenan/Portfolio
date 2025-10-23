@@ -1,0 +1,60 @@
+{
+  "about": {
+    "title": "Sobre mim",
+    "me": "<p class=\"text-white/75 cursor-default font-gilmer-regular vvs:text-base sm:text-xl xl:text-2xl text-sm xl:leading-8 2xl:leading-9 lg:leading-6 leading-5 mb-6 md:mb-0\">Iniciando minha trajetória na área de desenvolvimento de software, tenho focado meus estudos e projetos em <span class=\"text-white font-gilmer-medium\">Front-end</span>, utilizando <span class=\"text-white font-gilmer-medium\">React, Next.js</span> e explorando também <span class=\"text-white font-gilmer-medium\">React Native</span> para aplicações centradas no usuário.<br /><br />Estou desenvolvendo uma base sólida em boas práticas de interface, usabilidade e desempenho, buscando evoluir constantemente e contribuir para a criação de experiências digitais modernas e eficientes.</p>"
+  },
+  "download_resume": "Baixar Currículo",
+  "featured_project": "Projetos em Destaque",
+  "rentify_description": "Sistema interno da Clínica Azambuja que organiza agendamentos e otimiza o atendimento aos pacientes.",
+  "greetings": "Oi, eu sou o Alef Renan",
+  "hero": {
+    "first_line": "Desenvolvendo",
+    "second_line": "Web   apps Escaláveis,",
+    "third_line": "Monitorados e Robustos."
+  },
+  "contact": {
+    "interested": "Interessado?",
+    "get_in_touch": "Vamos entrar em contato!",
+    "find_me": "Você pode me encontrar no",
+    "or_contact_me": "ou você pode me contatar em"
+  },
+  "technologies": {
+    "node": {
+      "description": "Ambiente de execução JavaScript para construir aplicações escaláveis no lado do servidor."
+    },
+    "typescript": {
+      "description": "Superset fortemente tipado do JavaScript que compila para JavaScript puro."
+    },
+    "javascript": {
+      "description": "Linguagem de programação versátil para desenvolvimento web."
+    },
+    "git": {
+      "description": "Sistema de controle de versão distribuído para rastrear alterações no código."
+    },
+    "nestjs": {
+      "description": "Framework para construir aplicações server-side escaláveis e de fácil manutenção."
+    },
+
+    "react": {
+      "description": "Biblioteca para construir interfaces de usuário interativas."
+    },
+    "reactNative": {
+      "description": "Framework para construir aplicativos mobile cross-platform utilizando React."
+    },
+    "nextjs": {
+      "description": "Framework baseado em React para renderização no lado do servidor e geração de sites estáticos."
+    },
+    "tailwindcss": {
+      "description": "Framework CSS utilitário para desenvolvimento rápido de interfaces."
+    },
+    "mongodb": {
+      "description": "Banco de dados NoSQL projetado para flexibilidade e escalabilidade."
+    },
+    "aws": {
+      "description": "Plataforma completa de cloud que oferece computação, armazenamento e diversos serviços."
+    },
+    "docker": {
+      "description": "Plataforma para conteinerização de aplicações, garantindo consistência entre ambientes."
+    }
+  }
+}
